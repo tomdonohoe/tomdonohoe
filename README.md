@@ -1,3 +1,2 @@
-### Hello world 👋
+### Hello world, my name is Tom Donohoe 👋
 
-💬   About me: I enjoy golf ⛳️ , mountain biking 🚵‍, swimming 🏊‍ and cycling 🚵‍.
