@@ -1,2 +1,2 @@
-### Hell world 👋
+### Hello world 👋
 
